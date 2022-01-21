@@ -1,5 +1,7 @@
 package math.problems;
 
+import java.util.Scanner;
+
 public class Pattern {
 
 	public static void main(String[] args) {
@@ -8,7 +10,9 @@ public class Pattern {
 		 *
 		 *
 		 */
-		
+	Scanner scanner = new Scanner(System.in);
+	System.out.println("Enter the  number of rows");
+
 
 
 	}

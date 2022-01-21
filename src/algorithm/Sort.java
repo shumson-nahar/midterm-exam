@@ -31,10 +31,14 @@ public class Sort {
         return list;
     }
 
-    public int[] insertionSort(int [] array){
+    public int[] insertionSort(int [] array) {
         final long startTime = System.currentTimeMillis();
-        int [] list = array;
-        //implement here
+        int[] list = array;
+
+
+    
+
+        /* implement here */
 
 
 

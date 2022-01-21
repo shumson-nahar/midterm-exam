@@ -1,0 +1,124 @@
+Please answer the below Data Structure Questions:
+
+why do we need data structure?
+ A. Data structures are important to all programmers. They help us memory efficiently,they help us model processes
+
+
+What are the various operations that can be performed on different Data Structures?
+
+ A. Insertion,Deletion,Traversal,Searching,Sorting.
+
+List out the areas in which data structures are applied extensively?
+ A. Data structures are used in any program or software.
+ They are used in the areas of.
+Compiler Design.
+Operating System.
+DBMS
+Graphics.
+Simulation.
+Numerical Analysis.
+
+what is an Array?
+
+ A. An array is a container object that holds a fixed number of values of a single type.
+
+what is the difference between the Array and ArrayList?
+
+ An array is a fixed_length data structure. ArrayList is a variable-length data structure.
+
+what is LinkedList?
+A linkedList is a linear collection of data elements whose order is not given by their physical placement in memory.
+
+How is an Array different from Linked List?
+An array is a collection of elements of a similar data type.
+A linked list is a collection of objects known as a node consists of two parts, i.e.,data and address.
+Array elements store in a contiguous memory location.
+Linked list elements can be stored anywhere in the memory or randomly stored.
+
+what is queue?
+Queue is a collection of ordered elements .
+
+
+what is stack?
+A. stack is a conceptual structure consisting of a set of homogeneous elements and is based on the principle of last
+in first out .
+what is FIFO and LIFO?
+The Last-In, First-out(LIFO) method assumes that the last unit to arrive in inventory or more recent is sold first.
+The First-In,First-Out(FIFO) method assumes that the oldest unit of inventory is the sold first.
+
+what is the order of complexity?
+The time complexity of a loop is equal to the number of times the innermost statement is to be executed.
+ On the first iteration of i=0, the inner loop executes 0 times. On the first iteration of i=1, the inner loop executes 1 times
+
+what is the best case to search an element from an array?
+The best case complexity is 0(1)when element is first or last element in the array.
+Java.
+Python3.
+Javascript.
+
+what is the worst case to search an element from an array?
+The worst case complexity is 0(n/2) (equivalent to 0(n)) when element is in the middle or not present in the array.
+what is tree in data structure?
+A tree data structure is a non-linear data structure because it does not store in a sequential manner.
+
+what is graph in data structure?
+A graph is a non-linear kind of data structure made up of nodes or vertices and edges.
+
+what is the difference between the HashTable and HashMap?
+Hashtable is synchronized. It is thread-safe and can be shared with many threads.
+HashMap is non synchronized. It is not-thread safe and can't be shared between many threads without proper synchronization code.
+
+What are the major data structures used in the following areas : RDBMS, Network data model and Hierarchical data model.
+1.RDBMS=Array(i.e.Array of structures)
+2.Network data model = Graph
+3.Hierarchical data model= Trees
+
+How HashMap works in java?
+HashMap uses multiple buckets and each bucket points to a Singly Linked List where the entries (nodes) are stored.
+
+What is ArrayIndexOutOfBoundsException in java? When it occurs?
+ArrayIndexOutOfBoundsException is thrown to indicate that we are trying to access array element with an illegal index.
+
+What are the different ways of copying an array into another array?
+There are mainly four different ways to copy all elements of one array into another array in Java.
+1. Manually.
+2. Arrays.copyOf()
+3. System.arraycopy()
+4. Object.clone()
+
+What is difference between an array and a linked list?
+
+ A. An array is a collection of elements of a similar data type.
+A linked list is a collection of objects known as a node where node consists of two parts, i.e. data and address.
+Array elements store in a contiguous memory location.
+Linked list elements can be stored anywhere in the memory or randomly stored.
+
+What is DFS and BFS?
+
+ A. BFS stands for Breadth First Search. DFS stands for Depth First Search.BFS uses Queue data structure for finding the shortest path.
+DFS uses Stack data structure.
+
+What is Recursion?
+ A. Recursion is the technique of making a function call itself.
+This technique provides a way to break complicated problems down into simple problems which are easier to solve.
+
+What are linear and non linear data Structures?
+
+ A. In a linear data structure, data elements are arranged in a linear order where each and every elements are attached to
+ its previous and next adjacent. In a non-linear data structure, data elements are attached in hierarchically manner.
+
+What is Big-(O)-notation?
+ A. Big O Notation is a way to describe the speed or complexity of a given algorithm.
+
+Outlined different kind of sorting algorithm with time complexity?
+ A. Selection Sort,Bubble Sort, Heap Sort, Quick Sort, Merge Sort, Bucket Sort , Radix Sort,  Count Sort.
+
+
+Draw a table with time complexity in which it will summarize all the data structure feature's advantages and disadvantages.
+  a)In terms of Accessing element.
+  b)In terms of Inserting element.
+  c)In terms of Searching element.
+  d)In terms of Removing element.
+
+
+
