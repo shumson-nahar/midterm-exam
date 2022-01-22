@@ -104,14 +104,14 @@ This technique provides a way to break complicated problems down into simple pro
 
 What are linear and non linear data Structures?
 
- A. In a linear data structure, data elements are arranged in a linear order where each and every elements are attached to
+ Ans: In a linear data structure, data elements are arranged in a linear order where each and every elements are attached to
  its previous and next adjacent. In a non-linear data structure, data elements are attached in hierarchically manner.
 
 What is Big-(O)-notation?
- A. Big O Notation is a way to describe the speed or complexity of a given algorithm.
+ Ans: Big O Notation is a way to describe the speed or complexity of a given algorithm.
 
 Outlined different kind of sorting algorithm with time complexity?
- A. Selection Sort,Bubble Sort, Heap Sort, Quick Sort, Merge Sort, Bucket Sort , Radix Sort,  Count Sort.
+ Ans: Selection Sort,Bubble Sort, Heap Sort, Quick Sort, Merge Sort, Bucket Sort , Radix Sort,  Count Sort.
 
 
 Draw a table with time complexity in which it will summarize all the data structure feature's advantages and disadvantages.
